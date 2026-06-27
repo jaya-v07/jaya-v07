@@ -65,7 +65,8 @@ class JayaV07:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaya-v07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=8A2BE2"/>
+
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaya-v07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6"/>
   
   <br/>
@@ -85,11 +86,8 @@ class JayaV07:
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🧠 **AI Assistant** | Intelligent conversational AI with context awareness | Python, OpenAI, FastAPI |
-| 📊 **Data Analyzer** | Advanced data visualization and analytics platform | React, Supabase, Python |
-| 🚀 **DevOps Pipeline** | Automated CI/CD pipeline with monitoring | Docker, Git, Linux |
-| 💡 **Smart API** | RESTful API with AI-powered recommendations | FastAPI, React, Supabase |
-
+|**Fitness-Gen** | AI-powered fitness website to generate personalized workout routines based on user's goals, experience level, height, weight, and age. Features complete authentication system, workout generation, and nutrition tracking endpoints. | `Python` `FastAPI` `Supabase` `PostgreSQL` `React` `OpenAI` |
+|**Surveillance Video Cropper** | Lightweight Python utility that processes video streams using YOLOv8 + OpenCV to automatically detect people and extract individual cropped images. Ideal for automating data collection, auditing security footage, or parsing video feeds efficiently with 1 FPS sampling and intelligent filtering. | `Python` `YOLOv8` `OpenCV` `Ultralytics` |
 </div>
 
 ---
